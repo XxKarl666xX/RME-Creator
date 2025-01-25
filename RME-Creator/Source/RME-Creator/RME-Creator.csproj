@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>RME_Creator</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Company>Dev___1_</Company>
+    <Product>Dev___1_</Product>
+    <Description>Basic RME code generator for sunset source</Description>
+    <Copyright>wubwubwubwub</Copyright>
+    <Version>1.3.3.7</Version>
+  </PropertyGroup>
+
+</Project>
